@@ -1,11 +1,9 @@
-{ P1 - EJ1
-Realizar un algoritmo que cree un archivo binario de números enteros no ordenados y permita
+{ Realizar un algoritmo que cree un archivo binario de números enteros no ordenados y permita
 incorporar datos al archivo. Los números son ingresados desde el teclado. La carga finaliza
 cuando se ingresa el número 30000, que no debe incorporarse al archivo. El nombre del archivo
-debe ser proporcionado por el usuario desde el teclado.   
-}
+debe ser proporcionado por el usuario desde el teclado.   }
 
-program ej1;
+program ej1p1;
 const 
 	corte = 30000;
 type
